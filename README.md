@@ -1,6 +1,5 @@
-### Hello There! 
 <p align="middle">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=45&pause=1000&color=808080&center=true&vCenter=true&width=500&lines=Hey+there%2C+I+am+Zophiel" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=45&pause=1000&color=808080&center=true&vCenter=true&width=500&lines=Hello+there%2C+I+am+Zophiel" alt="Typing SVG" /></a>
 
 ---
 Hi! I'm Zophiel, currently a Bachelors Student at FAST NUCES, learning & experimenting with new technologies. I love problem solving & am available for all sorts of learning oppurtunities.

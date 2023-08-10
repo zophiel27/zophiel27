@@ -25,11 +25,10 @@ Hi! I'm Zophiel, currently a Bachelors Student at FAST NUCES, learning & experim
 
 <p align="middle">👨‍💻 Done Working on
 
-- Probability & Statistics
-- Discrete Mathematics 
-- Linear Algeber
 - Assembly Langauge
 - Design and Analysis of Algorithms
+- Discrete Mathematics 
+- Linear Algeber
 - OOP
 - Data Structures
 - Intro to OS

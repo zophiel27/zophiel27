@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zophiel
 - 👀 I’m interested in Web, and App Development
-- 🌱 I’m currently learning C, React, Python, Machine Learning
+- 🌱 I’m currently learning Java, Python, AI & Machine Learning
 - 💞️ I’m looking to collaborate on developing helpful software using AI
 - 📫 How to reach me zophielsuleman27@gmail.com

@@ -44,7 +44,8 @@
  ![Unity](https://img.shields.io/static/v1?style=for-the-badge&message=Unity&color=000000&logo=Unity&logoColor=FFFFFF&label=)
 
  <h2>My GitHub Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h2>
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=zophiel27&show_icons=true&theme=tokyonight_duo"/><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zophiel27&show_icons=true&theme=tokyonight_duo" /></p>
+ <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=zophiel27&show_icons=true&theme=radical"/></p>
+ <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zophiel27&show_icons=true&theme=tokyonight_duo" /></p>
 
       
     

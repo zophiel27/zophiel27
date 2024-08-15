@@ -20,7 +20,7 @@
  ![pandas](https://img.shields.io/static/v1?style=for-the-badge&message=pandas&color=150458&logo=pandas&logoColor=FFFFFF&label=)
  ![NumPy](https://img.shields.io/static/v1?style=for-the-badge&message=NumPy&color=013243&logo=NumPy&logoColor=FFFFFF&label=)
  ![TensorFlow](https://img.shields.io/static/v1?style=for-the-badge&message=TensorFlow&color=FF6F00&logo=TensorFlow&logoColor=FFFFFF&label=)
- ![Plotly](https://img.shields.io/static/v1?style=for-the-badge&message=Plotly&color=d8b00d&logo=Plotly&logoColor=FFFFFF&label=)
+ ![Plotly](https://img.shields.io/static/v1?style=for-the-badge&message=Plotly&color=222222&logo=Plotly&logoColor=FFFFFF&label=)
  ![scikitlearn](https://img.shields.io/static/v1?style=for-the-badge&message=Sklearn&color=E34F26&logo=scikitlearn&logoColor=FFFFFF&label=)
 
   

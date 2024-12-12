@@ -46,16 +46,16 @@
  ![Jupyter](https://img.shields.io/static/v1?style=for-the-badge&message=Jupyter&color=E34F26&logo=Jupyter&logoColor=FFFFFF&label=)
  ![VS Code](https://img.shields.io/static/v1?style=for-the-badge&message=vscode&color=00599C&logo=vscode&logoColor=FFFFFF&label=)
  ![Unity](https://img.shields.io/static/v1?style=for-the-badge&message=Unity&color=222222&logo=Unity&logoColor=FFFFFF&label=)
-  ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=E34F26&logo=Postman&logoColor=FFFFFF&label=)
+ ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=E34F26&logo=Postman&logoColor=FFFFFF&label=)
 
 
  <h2>My GitHub Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h2>
  <div align="center">
      <img src="https://github-readme-stats.vercel.app/api?username=zophiel27&theme=tokyonight&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=contribs,issues" alt="Zophiel's GitHub stats">
      <br>
-     <a href="https://streak-stats.demolab.com/?user=zophiel27&theme=tokyonight">
+<!--      <a href="https://streak-stats.demolab.com/?user=zophiel27&theme=tokyonight">
          <img src="https://streak-stats.demolab.com/?user=zophiel27&theme=tokyonight" alt="GitHub Streak">
-     </a>
+     </a> -->
  </div>
 
       

@@ -1,8 +1,8 @@
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome! I'm Zophiel~ <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h1 align="center"> Hi, welcome! I'm Zophiel~ <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
  
-- 💻 Currently diving deep into **AI & Machine Learning**
-- ✏️ Proficient in **Python/ Django** and **JavaScript**
-- 🎓 Worked with various frameworks like **HTML/CSS, PHP, MySQL & MongoDB**
+- 💻 Currently diving into **AI & Machine Learning**
+- ✏️ Proficient in **Python**, **C/C++** and **JavaScript**
+- 🎓 Worked with various technologies like **HTML/CSS, MERN, MySQL & REST APIs**
 - 🌱 Interested in **App & Game Development**
 - ⭐️ Looking to collaborate on developing helpful software using AI
 - 📫 How to reach me - zophielsuleman27@gmail.com
@@ -31,7 +31,7 @@
  ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
  ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=00599C&logo=CSS3&logoColor=FFFFFF&label=)
  ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=d8b00d&logo=JavaScript&logoColor=FFFFFF&label=)
- ![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=7d747d&logo=phpmyadmin&logoColor=FFFFFF&label=)
+ ![MERN](https://img.shields.io/static/v1?style=for-the-badge&message=MERN&color=7d747d&logo=MERN&logoColor=FFFFFF&label=)
  ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=8e5391&logo=MySQL&logoColor=FFFFFF&label=)
  ![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=E34F26&logo=Firebase&logoColor=FFFFFF&label=)
  ![Kotlin](https://img.shields.io/static/v1?style=for-the-badge&message=Kotlin&color=d8b00d&logo=Kotlin&logoColor=FFFFFF&label=)
@@ -46,6 +46,8 @@
  ![Jupyter](https://img.shields.io/static/v1?style=for-the-badge&message=Jupyter&color=E34F26&logo=Jupyter&logoColor=FFFFFF&label=)
  ![VS Code](https://img.shields.io/static/v1?style=for-the-badge&message=vscode&color=00599C&logo=vscode&logoColor=FFFFFF&label=)
  ![Unity](https://img.shields.io/static/v1?style=for-the-badge&message=Unity&color=222222&logo=Unity&logoColor=FFFFFF&label=)
+  ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=E34F26&logo=Postman&logoColor=FFFFFF&label=)
+
 
  <h2>My GitHub Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h2>
  <div align="center">
